@@ -2,3 +2,6 @@ Let's add new content, or some lines in the newfile.txt, and then try to commit 
 Open newfile.txt in any text editor.
 Add or modify some lines in the file.
 Save the changes.
+
+Add or edit some lines in the file.
+Save the file.
